@@ -7,7 +7,7 @@
     <title>Projet-Blog</title>
 </head>
 <body>
-    <h1>Blog</h1>
+    <h1>Mon Blog</h1>
     
 </body>
 </html>
