@@ -1,9 +1,8 @@
 {
     "name": "kercode/projet-blog_kercode",
-    "description": "Projet final: Blog",
     "autoload": {
         "psr-4": {
-            "Kercode\\ProjetBlogKercode\\": "src/"
+            "ProjetBlogKercode\\": "./app/"
         }
     },
     "authors": [
